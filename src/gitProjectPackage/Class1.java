@@ -6,6 +6,7 @@ public class Class1 {
 		// TODO Auto-generated method stub
 System.out.println("hiiiii");
 System.out.println("I am in branch 1");
+System.out.println("I am in branch 2");
 	}
 
 }
