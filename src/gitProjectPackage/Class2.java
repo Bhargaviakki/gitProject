@@ -1,11 +1,10 @@
 package gitProjectPackage;
 
-public class Class1 {
+public class Class2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("hiiiii");
-System.out.println("I am in branch 1");
+		System.out.println("this is new class created in branch1");
 	}
 
 }
